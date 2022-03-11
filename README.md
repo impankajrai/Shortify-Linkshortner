@@ -6,7 +6,7 @@ This is my first app which I made with Next JS [Next JS](https://nextjs.org/) an
 
 ## Demo
 
-![](https://drive.google.com/file/d/1BJ173I007eWPhcrM2RiTLgVYz9B5c-Qv/view?usp=sharing)
+![](https://github.com/impankajrai/Shortify-Linkshortner/blob/main/public/Shortify-Linkshortner.gif)
 
 
 ## Authors
